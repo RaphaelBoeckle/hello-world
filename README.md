@@ -1,2 +1,2 @@
 # hello-world
-Test GitHub
+Test of basic GitHub
